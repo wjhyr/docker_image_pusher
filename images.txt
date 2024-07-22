@@ -15,3 +15,7 @@ kubernetesui/metrics-scraper:v1.0.8
 registry.k8s.io/ingress-nginx/controller:v1.8.0
 registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20230407
 rockylinux:9
+gcr.io/cadvisor/cadvisor:v0.49.2
+registry.k8s.io/metrics-server/metrics-server:v0.7.1
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1
+registry.k8s.io/ingress-nginx/controller:v1.10.1
